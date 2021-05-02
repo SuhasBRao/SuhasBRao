@@ -18,6 +18,8 @@
     I'm more of a self-learner who loves to learn from the Internet apart from classroom.
   </samp>
   <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
+ 
   <!-- <img src="https://komarev.com/ghpvc/?username=SuhasBRao" alt="https://github.com/SuhasBRao" /> --->
 </p>
 
