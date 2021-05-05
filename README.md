@@ -47,17 +47,37 @@
 <a href="https://www.instagram.com/suhasbrao/">
   <img
     alt="Instagram"
-    src = "https://image.flaticon.com/icons/png/128/2111/2111463.png"
+    src = "https://image.flaticon.com/icons/png/128/185/185985.png"
     width = 35
     height = 35
    />
-    
 </a>
+&emsp;
 <a href="mailto:raos04567@gmail.com?subject=Hello%20Ileri,%20From%20Github">
   <img 
-    src = "https://image.flaticon.com/icons/png/128/888/888853.png"
+    src = "https://image.flaticon.com/icons/png/128/552/552486.png"
     width = 35
     height = 35   
-  />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+ />
+</a>
+&emsp;
+<a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
+  <img 
+    src = "https://image.flaticon.com/icons/png/128/185/185964.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&emsp;
+<a href="https://www.quora.com/profile/Suhas-Rao-66">
+  <img 
+    src = "https://image.flaticon.com/icons/png/128/185/185976.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+
+  
