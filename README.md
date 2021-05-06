@@ -1,6 +1,6 @@
 <h3 align = "left" >
   <img 
-    src = "/images/header_plain.gif"
+    src = "/images/Customized.gif"
     width = 100
     height = 100
   />
