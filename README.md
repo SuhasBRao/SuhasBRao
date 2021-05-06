@@ -1,10 +1,10 @@
 <h3 align = "left" >
   <img 
-    src = "https://image.flaticon.com/icons/png/128/1478/1478189.png"
+    src = "/images/header_plain.gif"
     width = 100
     height = 100
   />
-  <samp>Hey There! Im Happy to have you here.</samp>
+  <!--- <samp>Hey There! Im Happy to have you here.</samp> -->
  </h3>
  
 <!--
