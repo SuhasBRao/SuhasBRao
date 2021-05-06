@@ -1,8 +1,8 @@
 <h3 align = "left" >
   <img 
     src = "/images/header_plain.gif"
-    width = 100
-    height = 100
+    width = 1000
+    height = 200
   />
   <!--- <samp>Hey There! Im Happy to have you here.</samp> -->
  </h3>
