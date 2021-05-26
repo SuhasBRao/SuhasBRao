@@ -20,7 +20,7 @@
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
  
-  <!-- <img src="https://komarev.com/ghpvc/?username=SuhasBRao" alt="https://github.com/SuhasBRao" /> --->
+  <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" alt="https://github.com/SuhasBRao" /> -->
 </p>
 
 - &#128214; I’m currently learning Machine Learning.
@@ -35,9 +35,8 @@
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SuhasBRao)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasBRao)
 
-<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasBRao)
--->
 
 ---
 
