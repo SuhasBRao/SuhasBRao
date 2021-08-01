@@ -24,8 +24,7 @@
 </p>
 
 - &#128214; I’m currently learning Machine Learning.
-- &#9889; I'm also working on a Sign to speech Converter.
-- &#128073; I'm building ***My first Github Page*** [(Check it out)](https://suhasbrao.github.io/)
+- &#128073; I'm building ***My first Github Profile Page*** [(Check it out)](https://suhasbrao.github.io/)
 - &#11088; I work on ***Improving my skills*** in free time.
 - &#128396; I'm a ***Pencil artist***.
 - &#127936; I love playing ***Basketball***.
