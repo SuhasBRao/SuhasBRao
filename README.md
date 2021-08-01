@@ -36,7 +36,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SuhasBRao)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasBRao)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhasBRao)](https://git.io/streak-stats)
 
 ---
 
