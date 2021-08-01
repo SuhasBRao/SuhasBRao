@@ -35,7 +35,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SuhasBRao)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhasBRao)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhasBRao&stroke=38DD69&background=165795&ring=37DD57&fire=1CD577&sideNums=120E5BF2&sideLabels=1ADD40&currStreakLabel=10EF24&dates=11E2E7)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SuhasBRao&stroke=38DD69&background=165795&ring=37DD57&fire=1CD577&sideNums=120E5BF2&sideLabels=1ADD40&currStreakLabel=10EF24&dates=11E2E7)
 ---
 
 <h2  align="center">&#x1F4EC; Reach me on</h2>
