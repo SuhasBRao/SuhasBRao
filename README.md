@@ -5,8 +5,9 @@
 
 ---
 
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&size=24&lines=Hey+there,+I'm+Suhas;I'm+Pursuing+B.E.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
+
 <p align="center">
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&lines=Hey+there,+I'm+Suhas;I'm+Pursuing+B.E.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
   <br>
   I'm Suhas B, I'm Pursuing B.E in Electronics and Communication. I love Programming.
   I'm more of a self-learner who loves to learn from the Internet apart from classroom.
