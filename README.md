@@ -1,12 +1,4 @@
-<h3 align = "left" >
-  <img 
-    src = "/images/Customized.gif"
-    width = 1000
-    height = 200
-  />
-  <!--- <samp>Hey There! Im Happy to have you here.</samp> -->
- </h3>
- 
+
 <!--
 **SuhasBRao/SuhasBRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center"> 👨‍💻 Who am i </h1>
@@ -14,9 +6,10 @@
 ---
 
 <p align="center">
-  <samp>I'm Suhas B, I'm Pursuing B.E in Electronics and Communication. I love Programming, currently working with Python.
-    I'm more of a self-learner who loves to learn from the Internet apart from classroom.
-  </samp>
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&lines=Hey+there,+I'm+Suhas;I'm+Pursuing+B.E.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
+  <br>
+  I'm Suhas B, I'm Pursuing B.E in Electronics and Communication. I love Programming.
+  I'm more of a self-learner who loves to learn from the Internet apart from classroom.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
  
