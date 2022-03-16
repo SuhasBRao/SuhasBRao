@@ -74,7 +74,7 @@
 &emsp;
 <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
   <img 
-    src = "https://image.flaticon.com/icons/png/128/185/185964.png"
+    src = "https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1647409882~hmac=6017d0078c5a4a34f223b31f8948e6c5"
     width = 35
     height = 35   
  />
@@ -82,7 +82,7 @@
 &emsp;
 <a href="https://www.quora.com/profile/Suhas-Rao-66">
   <img 
-    src = "https://image.flaticon.com/icons/png/128/185/185976.png"
+    src = "https://cdn-icons-png.flaticon.com/512/185/185976.png"
     width = 35
     height = 35   
  />
