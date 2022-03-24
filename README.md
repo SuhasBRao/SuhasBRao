@@ -58,7 +58,7 @@
 <a href="https://www.instagram.com/suhasbrao/">
   <img
     alt="Instagram"
-    src = "https://image.flaticon.com/icons/png/128/185/185985.png"
+    src = "https://cdn-icons-png.flaticon.com/512/174/174855.png"
     width = 35
     height = 35
    />
@@ -66,7 +66,7 @@
 &emsp;
 <a href="mailto:raos04567@gmail.com?subject=Hello%20Ileri,%20From%20Github">
   <img 
-    src = "https://image.flaticon.com/icons/png/128/552/552486.png"
+    src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
     width = 35
     height = 35   
  />
@@ -74,7 +74,7 @@
 &emsp;
 <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
   <img 
-    src = "https://cdn-icons.flaticon.com/png/512/1377/premium/1377213.png?token=exp=1647409882~hmac=6017d0078c5a4a34f223b31f8948e6c5"
+    src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
     width = 35
     height = 35   
  />
