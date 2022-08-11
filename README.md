@@ -5,11 +5,11 @@
 
 ---
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&size=24&lines=Hey+there,+I'm+Suhas;I'm+Pursuing+B.E.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&size=24&lines=Hey+there,+I'm+Suhas.;I+love+Programming.;An+Open-Source+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
 
 <p align="center">
   <br>
-  I'm Suhas B, I'm Pursuing B.E in Electronics and Communication. I love Programming.
+  I'm Suhas B, I love Programming.
   I'm more of a self-learner who loves to learn from the Internet apart from classroom.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=green alt="https://suhasbrao.github.io/" /> 
