@@ -19,10 +19,9 @@
 
 - &#128214; I’m currently learning Machine Learning.
 - &#11088; I work on ***Improving my skills*** in free time.
-- &#128396; I'm a ***Pencil artist***.
+- &#128396; I'm a ***Pencil artist***.(Checkout my instagram profile below)
 - &#127936; I love playing ***Basketball***.
 - &#128526; I am ***super positive*** and I always look forward for new adventures around Tech.
-- &#129311; Getting my hands dirty with Linux.
 
 
 <h2 align="center"> :student: Programming Languages</h2>
