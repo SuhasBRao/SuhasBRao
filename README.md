@@ -10,18 +10,17 @@
 <p align="center">
   <br>
   I'm Suhas B, I love Programming.
-  I'm more of a self-learner who loves to learn from the Internet apart from classroom.
+  I'm more of a self-learner who loves to learn from the Internet.
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=blue alt="https://suhasbrao.github.io/" /> 
  
   <!--<img src="https://komarev.com/ghpvc/?username=SuhasBRao" alt="https://github.com/SuhasBRao" /> -->
 </p>
 
-- &#128214; I’m currently learning Machine Learning.
 - &#11088; I work on ***Improving my skills*** in free time.
-- &#128396; I'm a ***Pencil artist***.(Checkout my instagram profile below)
+- &#128396; I'm a ***Pencil artist***.(Check out my instagram profile below)
 - &#127936; I love playing ***Basketball***.
-- &#128526; I am ***super positive*** and I always look forward for new adventures around Tech.
+- &#128526; I am ***super positive*** and I always look forward to new adventures around Tech.
 
 
 <h2 align="center"> :student: Programming Languages</h2>
